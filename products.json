@@ -1,0 +1,1 @@
+[{"type":"cc","id":1,"name":"My Card","issuer":"Master Card","active":true,"amount":10},{"type":"deposit","id":2,"name":"My Deposit","interestRate":0,"description":"Some nice deposit"}]

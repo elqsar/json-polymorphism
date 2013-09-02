@@ -1,0 +1,16 @@
+/target
+*/target
+/build
+*/build
+/bin
+/subprojects/*/bin
+.DS_Store
+.gradle
+/build
+/out
+/buildSrc/lib
+/buildSrc/build
+.classpath
+.project
+.settings
+.metadata
